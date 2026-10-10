@@ -1,0 +1,32 @@
+MPI PJOK KELAS VII — SEPAK BOLA
+================================
+
+ISI PAKET
+- index.html : halaman utama MPI. HTML, CSS, dan JavaScript sudah tergabung.
+
+CARA MEMBUAT MPI ONLINE DENGAN GITHUB PAGES
+1. Ekstrak ZIP ini di komputer.
+2. Masuk atau buat akun di https://github.com/
+3. Buat repository baru, misalnya: mpi-pjok-sepak-bola. Pilih Public.
+4. Unggah file index.html ke root repository.
+5. Buka Settings > Pages.
+6. Pada Build and deployment, pilih:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: /(root)
+   Lalu klik Save.
+7. Tunggu penerbitan selesai. URL biasanya berbentuk:
+   https://NAMA-AKUN.github.io/NAMA-REPOSITORY/
+8. Buka URL itu dan uji MPI.
+
+ALTERNATIF DENGAN NETLIFY
+1. Ekstrak ZIP.
+2. Buka https://app.netlify.com/drop
+3. Seret folder yang berisi index.html ke area unggah, lalu ikuti petunjuknya.
+4. Setelah diterbitkan, Netlify akan memberikan URL situs.
+
+CATATAN
+- ZIP ini belum otomatis diunggah ke internet. Ikuti langkah di atas untuk mendapatkan URL publik.
+- MPI berjalan sebagai situs statis; tidak perlu server khusus.
+- Nilai dan refleksi hanya tersimpan selama halaman terbuka dan tidak dikirim ke guru/server.
+- Uji tautan publik dari perangkat lain sebelum membagikannya kepada siswa.
